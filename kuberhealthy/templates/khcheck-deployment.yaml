@@ -4,7 +4,7 @@ apiVersion: comcast.github.io/v1
 kind: KuberhealthyCheck
 metadata:
   name: deployment
-  namespace: {{ .Release.Namespace }}
+  namespace: default
 spec:
   runInterval:  {{ .Values.check.deployment.runInterval }}
   timeout: {{ .Values.check.deployment.timeout }}
