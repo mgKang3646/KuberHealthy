@@ -242,7 +242,7 @@ check:
       registry: docker.io
       repository: kuberhealthy/pod-status-check
       tag: v1.3.0
-    allNamespaces: false
+    allNamespaces: true
     extraEnvs: {}
     nodeSelector: {}
     tolerations: []
