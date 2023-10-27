@@ -235,7 +235,7 @@ check:
         cpu: 10m
         memory: 50Mi
   podStatus:
-    enabled: false
+    enabled: true
     runInterval: 5m
     timeout: 15m
     image:

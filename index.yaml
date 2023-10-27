@@ -3,9 +3,9 @@ entries:
   kuberhealthy:
   - apiVersion: v2
     appVersion: v2.7.1
-    created: "2023-10-27T09:15:01.301905+09:00"
+    created: "2023-10-27T09:30:10.298023+09:00"
     description: An operator for synthetic test and monitoring. Works great with Prometheus.
-    digest: a8de8e649e2181d7c653b399a4ec60b202221f6a39b249c8eb156a45f590c70a
+    digest: c56cc1dd84c1610b745ecc671ef0106663705fa1dd649c67625b14a6802f7ace
     home: https://kuberhealthy.github.io/kuberhealthy/
     icon: https://raw.githubusercontent.com/kuberhealthy/kuberhealthy/master/images/logo-square.png
     keywords:
@@ -33,4 +33,4 @@ entries:
     urls:
     - kuberhealthy-92.tgz
     version: "92"
-generated: "2023-10-27T09:15:01.297136+09:00"
+generated: "2023-10-27T09:30:10.293186+09:00"
